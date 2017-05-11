@@ -1,0 +1,23 @@
+html{
+	font-size: 12px;
+	font-family: Arial;
+	line-height: 2em;
+	color:gray;
+}
+a:link{
+	color: #727272;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.center a{
+	color: white;
+}
+.center a:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
+#last{
+	color: #fdb306;
+}
