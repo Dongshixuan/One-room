@@ -5,3 +5,10 @@
 	color: #b9f605;
 	text-decoration: none;
 }
+.one{
+	 background-image: url(images/life.jpg);
+	  border: 0px;
+	 width: 70px;
+	 text-align: center;
+	 background-repeat: no-repeat;
+}

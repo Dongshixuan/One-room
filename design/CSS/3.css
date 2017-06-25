@@ -1,0 +1,145 @@
+*{
+	padding:0px;
+	border: 1px;
+	
+}
+body{
+	margin: auto;
+	background-image: url(../images/bg3.png);
+
+}
+
+/*网页首部*/
+.head{
+	background-image: url(../images/banner[1].jpg);
+	background-repeat: no-repeat;
+	
+	height:360px;
+	background-size: 1050px 360px;
+	background-position: center;
+}
+.t1{
+	padding-top: 40px;
+	margin-left: 200px;
+	margin-bottom: 38px;
+}
+
+#t2{
+	background-image: url(../images/bodybg.jpg);
+	background-size: 1050px 44px;
+	height: 44px;
+}
+.t5 ul li{
+	float: left;
+	padding-left: 10px;
+	margin-top: 12px;
+	list-style: none;
+	font-weight: bolder;
+	color: #4b4841;
+}
+.t5 ul li a{
+	text-decoration: none;
+	list-style: none;
+	font-weight: bolder;
+	color: #4b4841;
+}
+
+.t5 ul li a:hover{
+	text-decoration: none;
+}
+.t5 ul{
+	margin-left: 150px;
+}
+.t6 input[type='text']{
+	margin-top: 10px;
+	background-color: #f8f5ee;
+	width: 140px;
+	height: 25px;
+	margin-left: 100px;
+}
+.t6 input[type='button']{
+	background-color: #000;
+	width: 44px;
+	height: 25px;
+	border: 1px solid #f8f5ee;
+	color:#fff;
+	margin-left: -4px;
+}
+
+
+/*上部*/
+li{
+	list-style: none;
+
+}
+a{
+	text-decoration: none;
+	color: #423e36;
+}
+.c11{
+	margin-left: 80px;
+}
+.c11 div{
+	float: left;
+}
+#c131{
+	clear: both;
+}
+.c12 ul li{
+	text-decoration: none;
+	margin-left: 40px;
+	list-style: none;
+}
+.c12 a{
+	text-decoration: none;
+}
+/*网页尾部*/
+.footer{
+	margin-top: 20px;
+	clear: both;
+
+	background-image: url(../images/foot.jpg);
+	background-repeat: no-repeat;
+	background-size: 800px 150px;
+}
+.footer ul{
+	margin-top:50px;
+	margin-left: 500px;
+	margin-bottom: 20px;
+}
+.footer ul li{
+	color: #996600;
+	list-style-type: none;
+	float: left;
+	margin-left: 10px;
+	font-weight: bolder;
+}
+.footer ul li a{
+	text-decoration: none;
+	color: #996600;
+	font-weight: bolder;
+}
+.footer hr{
+	width: 100%;
+	background-color: #996600;
+}
+#one p{
+	text-align: left;
+	line-height: 20px;
+}
+#one{
+	width: 600px;
+	margin-left: 140px;
+	text-align: left;
+	color: #423e36;
+}
+#c131{
+	margin-left: 220px;
+}
+#one div{
+	float: left;
+}
+.footer p{
+	text-align: center;
+	line-height: 20px;
+}
